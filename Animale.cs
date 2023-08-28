@@ -13,6 +13,7 @@ namespace ConsoleApp1
         public string Razza { get; set; }
         public int Anni { get; set; }
         public int Zampe { get; set; }
+        public int Test { get; set; }
 
         public string GetSound()
         {
